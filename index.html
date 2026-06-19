@@ -254,6 +254,31 @@
   }
   .popup-ville { display: flex; align-items: center; gap: 4px; }
   .popup-ville::before { content: "📍"; font-size: 0.7rem; }
+  .popup-actuel {
+    margin-top: 8px;
+    padding: 7px 10px;
+    background: #f5f0e8;
+    border-radius: 6px;
+    border-left: 3px solid var(--gold);
+    font-size: 0.78rem;
+    color: var(--ink);
+  }
+  .popup-actuel-label {
+    font-size: 0.62rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--gold);
+    font-weight: 700;
+    margin-bottom: 2px;
+  }
+  .popup-actuel-nom { font-weight: 600; }
+  .popup-maj {
+    font-size: 0.65rem;
+    color: #aaa;
+    text-align: right;
+    margin-top: 8px;
+    font-style: italic;
+  }
 
   /* Marqueurs custom */
   .marker-pin {
@@ -403,22 +428,60 @@ function makeIcon(chef) {
 }
 
 // Popup
+// Mois courts en français (indépendant de la locale système)
+const MOIS_COURT = ['jan.’','fév.','mar.','avr.','mai','juin','juil.','août','sep.','oct.','nov.','éc.'];
+
+function formatMaj(isoDate) {
+  if (!isoDate) return null;
+  const d = new Date(isoDate);
+  return MOIS_COURT[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
+}
+
 function makePopup(chef) {
   const elim = chef.date_elimination
     ? `<div class="popup-row"><span>Éliminé(e) le</span><span>${new Date(chef.date_elimination).toLocaleDateString('fr-FR')}</span></div>`
     : '';
-  return `
-    <div class="popup-inner">
+
+  let actuelHtml = '';
+  if (chef.etablissement_actuel) {
+    const ville   = chef.ville_actuelle ? ` · ${chef.ville_actuelle}` : '';
+    const majStr  = formatMaj(chef._enrichissement_date);
+    const majHtml = majStr ? `<div class="popup-maj">Actualisé en ${majStr}</div>` : '';
+    actuelHtml = `<div class="popup-actuel"><div class="popup-actuel-label">Aujourd'hui</div><div class="popup-actuel-nom">${chef.etablissement_actuel}${ville}</div></div>${majHtml}`;
+  }
+
+  return `<div class="popup-inner">
       <div class="popup-season">Saison ${chef.saison}</div>
       <div class="popup-name">${chef.nom}</div>
-      <div class="popup-etab">${chef.etablissement}</div>
+      <div class="popup-etab">À l'époque : ${chef.etablissement}</div>
       ${badgeHtml(chef.resultat)}
-      <div class="popup-row">
-        <span class="popup-ville">${chef.ville}</span>
-        <span>${chef.age} ans</span>
-      </div>
-      ${elim}
+      <div class="popup-row"><span class="popup-ville">${chef.ville}</span><span>${chef.age} ans</span></div>
+      ${elim}${actuelHtml}
     </div>`;
+}
+
+function makePopup(chef) {
+  const elim = chef.date_elimination
+    ? '<div class="popup-row"><span>Éliminé(e) le</span><span>' + new Date(chef.date_elimination).toLocaleDateString('fr-FR') + '</span></div>'
+    : '';
+
+  let actuelHtml = '';
+  if (chef.etablissement_actuel) {
+    const ville   = chef.ville_actuelle ? ' · ' + chef.ville_actuelle : '';
+    const majStr  = formatMaj(chef._enrichissement_date);
+    const majHtml = majStr ? '<div class="popup-maj">Actualisé en ' + majStr + '</div>' : '';
+    actuelHtml = '<div class="popup-actuel"><div class="popup-actuel-label">Aujourd\'hui</div><div class="popup-actuel-nom">' + chef.etablissement_actuel + ville + '</div></div>' + majHtml;
+  }
+
+  return '<div class="popup-inner">'
+    + '<div class="popup-season">Saison ' + chef.saison + '</div>'
+    + '<div class="popup-name">' + chef.nom + '</div>'
+    + '<div class="popup-etab">À l\'époque : ' + chef.etablissement + '</div>'
+    + badgeHtml(chef.resultat)
+    + '<div class="popup-row"><span class="popup-ville">' + chef.ville + '</span><span>' + chef.age + ' ans</span></div>'
+    + elim
+    + actuelHtml
+    + '</div>';
 }
 
 // ── État & Filtres ────────────────────────────────────────────────────────
