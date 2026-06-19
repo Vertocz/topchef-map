@@ -1,0 +1,96 @@
+name: 🗺️ Mise à jour carte Top Chef
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "topchef.json"
+
+  # Rafraîchissement trimestriel automatique
+  schedule:
+    - cron: "0 3 1 */3 *"   # Le 1er du mois, tous les 3 mois, à 3h UTC
+
+  # Déclenchement manuel avec paramètres
+  workflow_dispatch:
+    inputs:
+      refresh_days:
+        description: "Re-traiter les entrées de plus de N jours (vide = nouveaux seulement)"
+        required: false
+        default: ""
+      saison:
+        description: "Saison spécifique à enrichir (vide = toutes)"
+        required: false
+        default: ""
+
+jobs:
+  enrich-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: ⬇️ Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurer Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: 📦 Installer les dépendances
+        run: pip install requests google-generativeai duckduckgo-search
+
+      # ── Étape 1 : géocodage GPS ──────────────────────────────────────────
+      - name: 🌍 Géocoder les nouvelles villes (Nominatim / OSM)
+        run: python3 scripts/geocode.py --input topchef.json --output topchef_enriched.json
+
+      # ── Étape 2 : enrichissement via Gemini + DuckDuckGo ────────────────
+      - name: 🤖 Enrichir les établissements (Gemini Flash + DuckDuckGo)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          ARGS=""
+
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            ARGS="--refresh-days 90"
+          fi
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ -n "${{ github.event.inputs.refresh_days }}" ]; then
+              ARGS="$ARGS --refresh-days ${{ github.event.inputs.refresh_days }}"
+            fi
+            if [ -n "${{ github.event.inputs.saison }}" ]; then
+              ARGS="$ARGS --saison ${{ github.event.inputs.saison }}"
+            fi
+          fi
+
+          python3 scripts/enrich_etablissements.py \
+            --input  topchef_enriched.json \
+            --output topchef_enriched.json \
+            $ARGS
+
+      # ── Étape 3 : injection dans index.html ─────────────────────────────
+      - name: 🔄 Injecter les données enrichies dans index.html
+        run: python3 scripts/inject_data.py
+
+      # ── Étape 4 : commit automatique ─────────────────────────────────────
+      - name: 💾 Commiter les fichiers mis à jour
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Enrichissement automatique (${{ github.event_name }})"
+          file_pattern: "topchef_enriched.json index.html enrich_log.jsonl"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+
+      # ── Étape 5 : déploiement GitHub Pages ───────────────────────────────
+      - name: 🚀 Déployer sur GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
+          exclude_assets: ".github,scripts,topchef.json,*.md,*.txt,enrich_log.jsonl"
