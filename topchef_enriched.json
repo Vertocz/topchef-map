@@ -8,7 +8,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -19,7 +25,13 @@
     "resultat": "Finaliste",
     "date_elimination": "2010-04-05",
     "lat": 43.3441,
-    "lon": 3.2153
+    "lon": 3.2153,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -30,7 +42,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2010-04-05",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef à domicile",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -41,7 +59,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2010-04-05",
     "lat": 50.8503,
-    "lon": 4.3517
+    "lon": 4.3517,
+    "_etablissement_original": "Sous-chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -52,7 +76,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2010-03-29",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -63,7 +93,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2010-03-22",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef à domicile",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -74,7 +110,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2010-03-15",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Amateur",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -85,7 +127,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2010-03-08",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Coach culinaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -96,7 +144,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2010-03-01",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef privé",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -107,7 +161,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2010-02-22",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Apprentie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -118,7 +178,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2010-02-22",
     "lat": 48.9381,
-    "lon": 2.4933
+    "lon": 2.4933,
+    "_etablissement_original": "Commis",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 1,
@@ -129,7 +195,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2010-02-22",
     "lat": 43.6633,
-    "lon": 7.1489
+    "lon": 7.1489,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -140,7 +212,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 43.5858,
-    "lon": 6.6353
+    "lon": 6.6353,
+    "_etablissement_original": "Le Favienta",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -151,7 +229,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 43.7189,
-    "lon": 4.8014
+    "lon": 4.8014,
+    "_etablissement_original": "L'Oustau de Baumanière",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -162,7 +246,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-04-04",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "L'Opéra de Lyon",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -173,7 +263,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-03-28",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Le Fin Gourmet",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -184,7 +280,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2011-03-21",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Potel & Chabot",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -195,7 +297,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-03-14",
     "lat": 43.1242,
-    "lon": 5.928
+    "lon": 5.928,
+    "_etablissement_original": "Kube Murano",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -206,7 +314,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-03-07",
     "lat": 43.2965,
-    "lon": 5.3698
+    "lon": 5.3698,
+    "_etablissement_original": "Une Table au Sud",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -217,7 +331,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-02-28",
     "lat": 43.2677,
-    "lon": 6.6407
+    "lon": 6.6407,
+    "_etablissement_original": "Brasserie Byblos",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -228,7 +348,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-02-21",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Atelier des Chefs",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -239,7 +365,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-02-14",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Café de la Paix",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -250,7 +382,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-02-07",
     "lat": 43.5697,
-    "lon": 7.1133
+    "lon": 7.1133,
+    "_etablissement_original": "Le Park 45",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -261,7 +399,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-01-31",
     "lat": 50.8503,
-    "lon": 4.3517
+    "lon": 4.3517,
+    "_etablissement_original": "La Paix",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -272,7 +416,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-01-31",
     "lat": 48.7625,
-    "lon": 0.6344
+    "lon": 0.6344,
+    "_etablissement_original": "La Pierre qui roule",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 2,
@@ -283,7 +433,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2011-01-31",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Le Trend",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -294,7 +450,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "L'Acajou",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -305,7 +467,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 45.6261,
-    "lon": 3.2508
+    "lon": 3.2508,
+    "_etablissement_original": "Bergerie de Sarpoil",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -316,7 +484,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 44.1381,
-    "lon": 4.809
+    "lon": 4.809,
+    "_etablissement_original": "Grotte d'Auguste",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -327,7 +501,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2012-04-02",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "T-Maki Shop",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -338,7 +518,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2012-03-26",
     "lat": 43.6677,
-    "lon": 7.1892
+    "lon": 7.1892,
+    "_etablissement_original": "Eden-Roc",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -349,7 +535,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2012-03-19",
     "lat": 50.4669,
-    "lon": 4.8674
+    "lon": 4.8674,
+    "_etablissement_original": "L'Air du temps",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -360,7 +552,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2012-03-12",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Le Caius",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -371,7 +569,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2012-03-05",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Jules Verne",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -382,7 +586,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2012-02-27",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Étudiant",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -393,7 +603,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2012-02-20",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Le Bristol",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -404,7 +620,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2012-02-13",
     "lat": 43.6769,
-    "lon": 4.6278
+    "lon": 4.6278,
+    "_etablissement_original": "L'Atelier Rabanel",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -415,7 +637,13 @@
     "resultat": "Abandon",
     "date_elimination": "2012-02-06",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Indépendant",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -426,7 +654,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2012-01-30",
     "lat": 50.5208,
-    "lon": 1.595
+    "lon": 1.595,
+    "_etablissement_original": "Westminster",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 3,
@@ -437,7 +671,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2012-01-30",
     "lat": 45.8992,
-    "lon": 6.1294
+    "lon": 6.1294,
+    "_etablissement_original": "Nature et Saveurs",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -448,7 +688,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 49.0444,
-    "lon": 2.1117
+    "lon": 2.1117,
+    "_etablissement_original": "Le Bristol",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -459,7 +705,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 50.7722,
-    "lon": 2.7067
+    "lon": 2.7067,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -470,7 +722,13 @@
     "resultat": "Troisième",
     "date_elimination": "2013-05-15",
     "lat": 50.4542,
-    "lon": 3.9524
+    "lon": 3.9524,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -481,7 +739,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-05-08",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -492,7 +756,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-04-15",
     "lat": 43.4048,
-    "lon": 5.0497
+    "lon": 5.0497,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -503,7 +773,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-04-08",
     "lat": 43.6108,
-    "lon": 3.8767
+    "lon": 3.8767,
+    "_etablissement_original": "Sous-chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -514,7 +790,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2013-04-01",
     "lat": 43.5945,
-    "lon": 6.5509
+    "lon": 6.5509,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -525,7 +807,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-03-25",
     "lat": 43.6047,
-    "lon": 1.4442
+    "lon": 1.4442,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -536,7 +824,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-03-18",
     "lat": 44.3512,
-    "lon": 2.0358
+    "lon": 2.0358,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -547,7 +841,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-03-04",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef privé",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -558,7 +858,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2013-02-25",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -569,7 +875,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-02-18",
     "lat": 43.213,
-    "lon": 2.3491
+    "lon": 2.3491,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -580,7 +892,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-02-11",
     "lat": 49.5903,
-    "lon": -1.2797
+    "lon": -1.2797,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -591,7 +909,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-02-04",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -602,7 +926,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2013-02-04",
     "lat": 47.4289,
-    "lon": 1.0011
+    "lon": 1.0011,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 4,
@@ -613,7 +943,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2013-02-04",
     "lat": 43.2965,
-    "lon": 5.3698
+    "lon": 5.3698,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -624,7 +960,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 43.3441,
-    "lon": 3.2153
+    "lon": 3.2153,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -635,7 +977,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef 1 étoile",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -646,7 +994,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2014-05-14",
     "lat": 43.6677,
-    "lon": 7.1892
+    "lon": 7.1892,
+    "_etablissement_original": "Chef pâtissière",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -657,7 +1011,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-05-07",
     "lat": 50.6292,
-    "lon": 3.0573
+    "lon": 3.0573,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -668,7 +1028,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-04-30",
     "lat": 49.7,
-    "lon": 5.5167
+    "lon": 5.5167,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -679,7 +1045,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-04-23",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef exécutif",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -690,7 +1062,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2014-04-16",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef exécutive",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -701,7 +1079,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-04-09",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -712,7 +1096,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-04-02",
     "lat": 43.2677,
-    "lon": 6.6407
+    "lon": 6.6407,
+    "_etablissement_original": "Sous-chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -723,7 +1113,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-03-26",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -734,7 +1130,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2014-03-19",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef à domicile",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -745,7 +1147,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-03-12",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Sous-chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -756,7 +1164,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-03-05",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -767,7 +1181,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-02-26",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 5,
@@ -778,7 +1198,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2014-02-19",
     "lat": 48.1351,
-    "lon": 11.582
+    "lon": 11.582,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -789,7 +1215,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 48.1417,
-    "lon": 7.3053
+    "lon": 7.3053,
+    "_etablissement_original": "Apprenti",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -800,7 +1232,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 43.5697,
-    "lon": 7.1133
+    "lon": 7.1133,
+    "_etablissement_original": "La Passagère",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -811,7 +1249,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-04-08",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef privé",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -822,7 +1266,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-04-01",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -833,7 +1283,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2015-03-25",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -844,7 +1300,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-03-18",
     "lat": 44.8378,
-    "lon": -0.5792
+    "lon": -0.5792,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -855,7 +1317,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-03-11",
     "lat": 50.6292,
-    "lon": 3.0573
+    "lon": 3.0573,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -866,7 +1334,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-03-04",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -877,7 +1351,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2015-02-25",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Sous-chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -888,7 +1368,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-02-18",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -899,7 +1385,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-02-11",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -910,7 +1402,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2015-02-04",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -921,7 +1419,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2015-01-28",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -932,7 +1436,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-01-21",
     "lat": 43.2965,
-    "lon": 5.3698
+    "lon": 5.3698,
+    "_etablissement_original": "Chef étoilé",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 6,
@@ -943,7 +1453,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2015-01-21",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Sous-chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -954,7 +1470,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 48.8044,
-    "lon": 2.1232
+    "lon": 2.1232,
+    "_etablissement_original": "Gordon Ramsay",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -965,7 +1487,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 43.2965,
-    "lon": 5.3698
+    "lon": 5.3698,
+    "_etablissement_original": "Les Dîners Faulquier",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -976,7 +1504,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-04-13",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Sous-chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -987,7 +1521,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-04-06",
     "lat": 43.2965,
-    "lon": 5.3698
+    "lon": 5.3698,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -998,7 +1538,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-03-30",
     "lat": 49.6117,
-    "lon": 6.1319
+    "lon": 6.1319,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1009,7 +1555,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-03-23",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1020,7 +1572,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-03-16",
     "lat": 48.6921,
-    "lon": 6.1844
+    "lon": 6.1844,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1031,7 +1589,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2016-03-09",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1042,7 +1606,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2016-03-02",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1053,7 +1623,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2016-02-24",
     "lat": 47.322,
-    "lon": 5.0415
+    "lon": 5.0415,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1064,7 +1640,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-02-17",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1075,7 +1657,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-02-10",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1086,7 +1674,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-02-03",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1097,7 +1691,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2016-01-27",
     "lat": 50.6292,
-    "lon": 3.0573
+    "lon": 3.0573,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 7,
@@ -1108,7 +1708,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2016-01-27",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1119,7 +1725,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 45.2981,
-    "lon": 5.9697
+    "lon": 5.9697,
+    "_etablissement_original": "Restaurant gastronomique",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1130,7 +1742,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 39.9042,
-    "lon": 116.4074
+    "lon": 116.4074,
+    "_etablissement_original": "Restaurant gastronomique",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1141,7 +1759,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-05-03",
     "lat": 50.5039,
-    "lon": 4.4699
+    "lon": 4.4699,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1152,7 +1776,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-04-26",
     "lat": 50.5039,
-    "lon": 4.4699
+    "lon": 4.4699,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1163,7 +1793,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2017-04-19",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1174,7 +1810,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-04-12",
     "lat": 43.6047,
-    "lon": 1.4442
+    "lon": 1.4442,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1185,7 +1827,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-04-05",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1196,7 +1844,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-03-29",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1207,7 +1861,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-03-22",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1218,7 +1878,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2017-03-15",
     "lat": 43.5297,
-    "lon": 5.4474
+    "lon": 5.4474,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1229,7 +1895,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-03-08",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1240,7 +1912,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-03-01",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1251,7 +1929,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-02-22",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Second de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1262,7 +1946,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-02-15",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1273,7 +1963,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-02-08",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 8,
@@ -1284,7 +1980,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2017-02-01",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1295,7 +1997,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 50.5753,
-    "lon": 2.5528
+    "lon": 2.5528,
+    "_etablissement_original": "Restaurant 2 étoiles",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1306,7 +2014,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 48.835,
-    "lon": 2.24
+    "lon": 2.24,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1317,7 +2031,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2018-05-02",
     "lat": 50.5039,
-    "lon": 4.4699
+    "lon": 4.4699,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1328,7 +2048,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-04-25",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Sous-chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1339,7 +2065,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-04-18",
     "lat": 45.4,
-    "lon": 3.0
+    "lon": 3.0,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1350,7 +2082,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-04-11",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1361,7 +2099,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2018-04-04",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1372,7 +2116,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-03-28",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1383,7 +2133,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-03-21",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef exécutif",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1394,7 +2150,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2018-03-14",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1405,7 +2167,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-03-07",
     "lat": 46.1591,
-    "lon": -1.152
+    "lon": -1.152,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1416,7 +2184,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-02-28",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1427,7 +2201,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-02-21",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de cuisine",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1438,7 +2218,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-02-14",
     "lat": 44.8378,
-    "lon": -0.5792
+    "lon": -0.5792,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 9,
@@ -1449,7 +2235,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2018-02-07",
     "lat": 43.2965,
-    "lon": 5.3698
+    "lon": 5.3698,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1460,7 +2252,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 35.6762,
-    "lon": 139.6503
+    "lon": 139.6503,
+    "_etablissement_original": "Ambassade de Belgique",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1471,7 +2269,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 48.1173,
-    "lon": -1.6778
+    "lon": -1.6778,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1482,7 +2286,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2019-05-01",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1493,7 +2303,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2019-04-24",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef exécutif",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1504,7 +2320,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2019-04-17",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1515,7 +2337,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2019-04-10",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1526,7 +2354,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2019-04-03",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef de partie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1537,7 +2371,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2019-03-27",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1548,7 +2388,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2019-03-20",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1559,7 +2405,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2019-03-13",
     "lat": 50.8503,
-    "lon": 4.3517
+    "lon": 4.3517,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1570,7 +2422,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2019-03-06",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1581,7 +2439,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2019-02-27",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1592,7 +2456,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2019-02-20",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1603,7 +2473,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2019-02-13",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 10,
@@ -1614,7 +2490,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2019-02-06",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1625,7 +2507,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 49.0771,
-    "lon": 1.533
+    "lon": 1.533,
+    "_etablissement_original": "Le Jardin des Plumes",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1636,7 +2524,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Détour",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1647,7 +2541,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-06-10",
     "lat": 50.8503,
-    "lon": 4.3517
+    "lon": 4.3517,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1658,7 +2558,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-06-03",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1669,7 +2575,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-05-27",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1680,7 +2592,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-05-20",
     "lat": 43.3441,
-    "lon": 3.2153
+    "lon": 3.2153,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1691,7 +2609,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-05-13",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1702,7 +2626,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-05-06",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1713,7 +2643,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2020-04-29",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1724,7 +2660,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-04-22",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1735,7 +2677,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-04-15",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1746,7 +2694,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2020-04-08",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef propriétaire",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1757,7 +2711,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-04-01",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1768,7 +2728,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2020-03-25",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 11,
@@ -1779,7 +2745,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2020-03-18",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1790,7 +2762,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 48.85,
-    "lon": 2.4833
+    "lon": 2.4833,
+    "_etablissement_original": "Publicis Drugstore",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1801,7 +2779,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 47.2184,
-    "lon": -1.5536
+    "lon": -1.5536,
+    "_etablissement_original": "Restaurant bistronomique",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1812,7 +2796,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-06-09",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Substance",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1823,7 +2813,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-06-02",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1834,7 +2830,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-05-26",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1845,7 +2847,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-05-19",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1856,7 +2864,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2021-05-12",
     "lat": 45.8992,
-    "lon": 6.1294
+    "lon": 6.1294,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1867,7 +2881,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-05-05",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1878,7 +2898,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2021-04-28",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1889,7 +2915,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-04-21",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1900,7 +2932,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-04-14",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1911,7 +2949,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-04-07",
     "lat": 50.5039,
-    "lon": 4.4699
+    "lon": 4.4699,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1922,7 +2966,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-03-31",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1933,7 +2983,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2021-03-24",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 12,
@@ -1944,7 +3000,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2021-03-17",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -1955,7 +3017,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 38.7169,
-    "lon": -9.1399
+    "lon": -9.1399,
+    "_etablissement_original": "BouBou's",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -1966,7 +3034,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 50.6,
-    "lon": 5.5
+    "lon": 5.5,
+    "_etablissement_original": "Van der Valk",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -1977,7 +3051,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-06-08",
     "lat": 43.1906,
-    "lon": 6.0406
+    "lon": 6.0406,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -1988,7 +3068,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-06-01",
     "lat": 50.6292,
-    "lon": 3.0573
+    "lon": 3.0573,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -1999,7 +3085,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-05-25",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2010,7 +3102,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-05-18",
     "lat": 50.6292,
-    "lon": 3.0573
+    "lon": 3.0573,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2021,7 +3119,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-05-11",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2032,7 +3136,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2022-05-04",
     "lat": 50.6292,
-    "lon": 3.0573
+    "lon": 3.0573,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2043,7 +3153,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-04-27",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2054,7 +3170,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2022-04-20",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2065,7 +3187,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-04-13",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2076,7 +3204,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-04-06",
     "lat": 49.4431,
-    "lon": 1.0993
+    "lon": 1.0993,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2087,7 +3221,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2022-03-30",
     "lat": 50.5039,
-    "lon": 4.4699
+    "lon": 4.4699,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2098,7 +3238,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2022-03-23",
     "lat": 48.5734,
-    "lon": 7.7521
+    "lon": 7.7521,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 13,
@@ -2109,7 +3255,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2022-03-16",
     "lat": 50.5039,
-    "lon": 4.4699
+    "lon": 4.4699,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2120,7 +3272,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 45.9135,
-    "lon": 6.1497
+    "lon": 6.1497,
+    "_etablissement_original": "Clos des Sens",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2131,7 +3289,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 46.2028,
-    "lon": 6.2411
+    "lon": 6.2411,
+    "_etablissement_original": "Bayview",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2142,7 +3306,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-06-01",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2153,7 +3323,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-05-25",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2164,7 +3340,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2023-05-18",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2175,7 +3357,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-05-11",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2186,7 +3374,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-05-04",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2197,7 +3391,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-04-27",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2208,7 +3408,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-04-20",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2219,7 +3425,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2023-04-13",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2230,7 +3442,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2023-04-06",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2241,7 +3459,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-03-30",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2252,7 +3476,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-03-23",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2263,7 +3493,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2023-03-16",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 14,
@@ -2274,7 +3510,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2023-03-09",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2285,7 +3527,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "NE/SO",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2296,7 +3544,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 55.6761,
-    "lon": 12.5683
+    "lon": 12.5683,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2307,7 +3561,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2024-05-08",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2318,7 +3578,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-05-01",
     "lat": 50.5039,
-    "lon": 4.4699
+    "lon": 4.4699,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2329,7 +3595,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-04-24",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2340,7 +3612,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-04-17",
     "lat": 49.6117,
-    "lon": 6.1319
+    "lon": 6.1319,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2351,7 +3629,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-04-10",
     "lat": 43.2965,
-    "lon": 5.3698
+    "lon": 5.3698,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2362,7 +3646,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2024-04-03",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2373,7 +3663,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-03-27",
     "lat": 43.2965,
-    "lon": 5.3698
+    "lon": 5.3698,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2384,7 +3680,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-03-20",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2395,7 +3697,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2024-03-13",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2406,7 +3714,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-03-06",
     "lat": 49.6117,
-    "lon": 6.1319
+    "lon": 6.1319,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2417,7 +3731,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2024-02-28",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2428,7 +3748,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-02-21",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 15,
@@ -2439,7 +3765,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2024-02-14",
     "lat": 45.94,
-    "lon": 3.87
+    "lon": 3.87,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2450,7 +3782,13 @@
     "resultat": "Vainqueur",
     "date_elimination": null,
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Bonhomie",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2461,7 +3799,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2472,7 +3816,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2025-06-04",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2483,7 +3833,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2025-05-28",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2494,7 +3850,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2025-05-21",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2505,7 +3867,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2025-05-14",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2516,7 +3884,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2025-05-07",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2527,7 +3901,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2025-04-30",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2538,7 +3918,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2025-04-23",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2549,7 +3935,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2025-04-16",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2560,7 +3952,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2025-04-09",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2571,7 +3969,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2025-04-02",
     "lat": 48.8566,
-    "lon": 2.3522
+    "lon": 2.3522,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2582,7 +3986,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2025-03-26",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2593,7 +4003,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2025-03-19",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 16,
@@ -2604,7 +4020,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2025-03-12",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2615,7 +4037,13 @@
     "resultat": "Gagnante",
     "date_elimination": null,
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Le Bœuf d'argent",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2626,7 +4054,13 @@
     "resultat": "Finaliste",
     "date_elimination": null,
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2637,7 +4071,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2026-06-03",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2648,7 +4088,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2026-05-27",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2659,7 +4105,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2026-05-20",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2670,7 +4122,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2026-05-13",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2681,7 +4139,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2026-05-06",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2692,7 +4156,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2026-04-29",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2703,7 +4173,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2026-04-22",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2714,7 +4190,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2026-04-15",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2725,7 +4207,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2026-04-08",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2736,7 +4224,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2026-04-01",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2747,7 +4241,13 @@
     "resultat": "Éliminée",
     "date_elimination": "2026-03-25",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2758,7 +4258,13 @@
     "resultat": "Éliminé",
     "date_elimination": "2026-03-18",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   },
   {
     "saison": 17,
@@ -2769,6 +4275,12 @@
     "resultat": "Éliminée",
     "date_elimination": "2026-03-11",
     "lat": 45.764,
-    "lon": 4.8357
+    "lon": 4.8357,
+    "_etablissement_original": "Chef",
+    "etablissement_actuel": null,
+    "ville_actuelle": null,
+    "_enrichissement_date": "2026-06-24T11:37:17Z",
+    "_enrichissement_conf": "basse",
+    "_enrichissement_source": null
   }
 ]
